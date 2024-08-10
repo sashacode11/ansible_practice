@@ -1,3 +1,9 @@
+[web_servers]
 ubuntu@192.168.122.201
+
+[db_servers]
 ubuntu-2@192.168.122.179
+
+[file_servers]
 ubuntu-3@192.168.122.116
+
