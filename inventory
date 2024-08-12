@@ -7,3 +7,6 @@ ubuntu-2@192.168.122.179
 [file_servers]
 ubuntu-3@192.168.122.116
 
+[workstations]
+192.168.1.8
+
